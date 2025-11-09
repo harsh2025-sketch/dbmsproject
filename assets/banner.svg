@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#667eea"/>
+      <stop offset="100%" stop-color="#764ba2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" fill="url(#g)" rx="8"/>
+  <g transform="translate(40,36)">
+    <g transform="scale(1)">
+      <!-- simple airplane icon -->
+      <path d="M280 20 L320 40 L360 36 L420 72 L400 84 L456 104 L444 116 L380 96 L344 100 L320 88 L280 100 Z" fill="#ffffff" opacity="0.9"/>
+    </g>
+    <text x="220" y="110" font-family="Segoe UI, Arial" font-size="44" fill="#ffffff" font-weight="700">Airline Reservation System</text>
+    <text x="220" y="150" font-family="Segoe UI, Arial" font-size="18" fill="#ffffff" opacity="0.9">Streamlit + MySQL demo • Auto DB setup • Simple booking flow</text>
+  </g>
+</svg>
